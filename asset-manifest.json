@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5e2e1ad.css",
+    "main.css": "/static/css/main.fdd3dd91.css",
     "main.js": "/static/js/main.2be47e8e.js",
     "static/media/3DPlane2.gltf": "/static/media/3DPlane2.fb25252ed7502287d0f5.gltf",
     "static/media/React.png": "/static/media/React.81ed438b18e24116794d.png",
@@ -17,11 +17,11 @@
     "static/media/SolidWorks.png": "/static/media/SolidWorks.7e7b543a2484b5e8b4e5.png",
     "static/media/RenderedPlanes.webp": "/static/media/RenderedPlanes.a6e340ae04604a0ae404.webp",
     "index.html": "/index.html",
-    "main.d5e2e1ad.css.map": "/static/css/main.d5e2e1ad.css.map",
+    "main.fdd3dd91.css.map": "/static/css/main.fdd3dd91.css.map",
     "main.2be47e8e.js.map": "/static/js/main.2be47e8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5e2e1ad.css",
+    "static/css/main.fdd3dd91.css",
     "static/js/main.2be47e8e.js"
   ]
 }
